@@ -29,13 +29,28 @@ tagline: Supporting tagline
 		Before entering college I really didn’t have a clue about what engineers did nor the various fields that they worked in.  I just knew that I was good at math and I really enjoy understanding and building things.  I also knew that engineers had handsome salaries and cushy desk jobs.  At college app time most of my friends and I included all applied to engineering majors.  I for one decided upon ME because after a night of Google (maybe Yahoo at the time) search yielded that mechanical engineering had the highest paying salary.  After my first year of college I switch to EE due to another night of Google search.  Long story short my first job after college landed me a job to build power plants across mostly the mid-west of US.  It was a whole year of physical engineering that I enjoyed, but in the end wasn’t for me.  I quit.
 	</p>
 	<p>
-		Upon returning home I began dappling in this thing they call “The Internet”.  I grew tired of asking friends to make me websites so decided to learn web development.  The irony of it is that I had reframed from considering majoring in CS in college because I didn’t want a job where I sit in front of the computer all day.  Now I am learning the art of coding and I cannot stop.  I feel like a kid again playing with LEGO for the first time.  LEGO manuals are now API docs.  LEGO parts are now languages, frameworks, and modules.  I was born to do this!  Never had I imagine it would be this fun to write gibberish on the computer.  As of this writing I have been developing for about 4 years.  I’m still a baby learning my “ABC” and I attribute my ability to grasp this material to playing with LEGO as a kid.
+		Upon returning home I began dappling in this thing they call “The Internet”.  I grew tired of asking friends to make me websites so I then decided to learn web development.  The irony of it is that I had reframed from considering majoring in CS in college because I didn’t want a job where I sit in front of the computer all day.  Now I am learning the art of coding and I cannot stop.  I feel like a kid again playing with LEGO for the first time.  LEGO manuals are now API docs.  LEGO parts are now languages, frameworks, and modules.  I was born to do this!  Never had I imagine it would be this fun to write gibberish on the computer.  As of this writing I have been developing for about 4 years.  I’m still a baby learning my “ABC” and I attribute my ability to grasp this material to playing with LEGO as a kid.
 	</p>
 	<p>
 		This is a story about my technical background.  What is your background and where did it come from?
 	</p>
-
 </div>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'meeeu'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
 
 <div id="references">
   <h6>References:</h6>
