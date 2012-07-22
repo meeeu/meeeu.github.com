@@ -13,7 +13,8 @@ tagline: Supporting tagline
     </h1>
     <div>
 	 <p>
-	  <a target="_blank" href="https://sphotos.xx.fbcdn.net/hphotos-ash4/200_526117863484_210_n.jpg">I used to build power plants</a> (<a target="_blank" href="https://sphotos.xx.fbcdn.net/hphotos-ash4/164_520557541414_4813_n.jpg">literally!</a>).<a id="sup-2" href="#ref-2"><sup>[2]</sup></a>  Now I write gibberish.<a id="sup-1" href="#ref-1"><sup>[1]</sup></a>  This is my place where I will share my views and beliefs about business, technology, and existence.  
+	  <a target="_blank" href="https://sphotos.xx.fbcdn.net/hphotos-ash4/200_526117863484_210_n.jpg">I used to build power plants</a> (<a target="_blank" href="https://sphotos.xx.fbcdn.net/hphotos-ash4/164_520557541414_4813_n.jpg">literally!</a>).<a id="sup-2" href="#ref-2"><sup>[1]</sup></a>  Now I write gibberish.<a id="sup-1" href="#ref-1"><sup>[2]</sup></a>
+      This is my place where I will share my views and beliefs about business, technology, and existence.  
 	 </p>
 	</div>
   </div>
